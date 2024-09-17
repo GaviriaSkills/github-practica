@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+body{
+    background-color: #000a1f;
+}
+
 main{
     margin: 100px 0 0 200px;
     width: 70%;
