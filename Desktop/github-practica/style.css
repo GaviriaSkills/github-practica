@@ -20,9 +20,7 @@ main{
 main img{
     width: 10%;
     height: 100%;
-    object-fit: cover;
-    border-radius: 10px;
-    border: 2px solid rgba(255, 255, 255, 0.684);
+    object-fit: contain;
     transition: all ease-in-out 0.5s;
 }
 
